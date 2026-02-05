@@ -1,0 +1,4 @@
+1. Open VS code
+2. in terminal
+  npm create vite@latest frontend
+  
