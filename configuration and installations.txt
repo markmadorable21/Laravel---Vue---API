@@ -1,4 +1,19 @@
 1. Open VS code
 2. in terminal
-  npm create vite@latest frontend
-  
+  npm create vite@latest frontend (this will create new folder named frontent)
+  select vue
+  select JS
+3. after install
+  in terminal:
+  npm install -D tailwindcss postcss autoprefixer
+
+
+3. in another terminal
+  laravel new backend (this will create new folder named backend)
+  select vue
+  select laravel
+  select PHPUnit
+
+
+
+
