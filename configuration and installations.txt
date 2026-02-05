@@ -6,6 +6,7 @@
 3. after install
   in terminal:
   npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
 
 
 3. in another terminal
