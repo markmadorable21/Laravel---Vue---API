@@ -7,6 +7,7 @@
   in terminal:
   npm install -D tailwindcss postcss autoprefixer
   npx tailwindcss init -p
+  (see tailwind website to install tailwind since it was updated)
 
 
 3. in another terminal
@@ -14,6 +15,17 @@
   select vue
   select laravel
   select PHPUnit
+
+4. to run frontend
+  npm run dev
+
+5. to run backend
+  php artisan serve
+
+6. install for frontend
+  npm install @headlessui/vue @heroicons/vue vue-router@v4 pinia axios
+
+
 
 
 
