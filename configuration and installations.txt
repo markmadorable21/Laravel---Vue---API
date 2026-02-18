@@ -17,6 +17,7 @@
   select PHPUnit
 
 4. to run frontend
+  npm install
   npm run dev
 
 5. to run backend
